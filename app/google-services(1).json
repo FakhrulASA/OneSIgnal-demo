@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464233548918",
+    "project_id": "onesignaltest-ecd86",
+    "storage_bucket": "onesignaltest-ecd86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464233548918:android:5be9e00e63d7847c44e357",
+        "android_client_info": {
+          "package_name": "com.fakhrulasa.onesignal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464233548918-se44nmdb624hru21imdsiic61fehmsi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEKdkaSDSFzz4G_eA9twR-fqCgqAYa0cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464233548918-se44nmdb624hru21imdsiic61fehmsi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
